@@ -36,7 +36,7 @@ var
 6、缩写规则，要么全部大写，要么全部小写，不要大小写混合
 
 */
-package day02
+package main
 
 func main() {
 
